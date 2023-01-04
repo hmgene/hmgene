@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hyunmin Kim 
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Aging and Repairment
-- 💞️ I’m looking to collaborate on Space
+- 🌱 I’m currently learning Aging and Cell/Tissue Repairment
+- 💞️ I’m looking to collaborate on Cell in Space
 - 📫 How to reach me human.gim@gmail.com
 
 <!---
