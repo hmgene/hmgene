@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyunmin Kim 
 - 👀 a Bioinformaticist
-- 🌱 studying aging and cancer with bioinformation data and computational altorithms
+- 🌱 studying aging and cancer from bioinformation data with computational altorithms
 - 💞️ to provide wellness to people
 - 📫 Reach me on human.gim@gmail.com
 
