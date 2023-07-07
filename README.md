@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hyunmin Kim 
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Aging and Cell/Tissue Repairment
-- 💞️ I’m looking to collaborate on Cell in Space
-- 📫 How to reach me human.gim@gmail.com
+- 👀 a Bioinformaticist
+- 🌱 studying aging and cancer with bioinformation data and computational altorithms
+- 💞️ to provide wellness to people
+- 📫 Reach me on human.gim@gmail.com
 
 <!---
 hmgene/hmgene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
