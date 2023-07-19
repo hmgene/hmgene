@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hyunmin Kim 
 - 👀 a Bioinformaticist
-- 🌱 studying aging and cancer from bioinformation data with computational altorithms
-- 💞️ to provide wellness to people
+- 🌱 testing bio=information with computational altorithms
+- 💞️ to provide wellness with some philosophy to people
 - 📫 Reach me on human.gim@gmail.com
 
 <!---
