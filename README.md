@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hyunmin Kim 
-- 👀 I passionately delve into ther realm where bioinformatics is biology. 
-- 🌱 discerning the intricacies of life through data and algorithms (flow of data).
-- 💞️ I firmly believe that all organisms encode short and long information in their (epi-)genes. 
+- 👀 I passionately delve into ther realm of bioinformatics. 
+- 🌱 discerning the intricacies of life through algorithms (flow of data).
+- 💞️ I firmly believe that understanding of bioinformation will make our life well. 
 - 📫 For inquiries, you can contact me at human.gim@gmail.com.
 
 <!---
