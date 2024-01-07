@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hyunmin Kim 
-- 👀 I passionately delve into the realm of bioinformatics. 
-- 🌱 discerning the intricacies of life through algorithms (flow of data).
+- 👋 Hi, I’m Hyunmin Kim,a bioinformaticist.  
+- 👀 I passionately delve into the realm of biological computation, which is about computation, regulation, expression of biomolecules in a cell. 
+- 🌱 I believe bio=information. Therefore, it is programmed in DNA code, and run via internal/external invluences.
 - 💞️ keywords: core-regulatory circuitry (CRC), gene regulatory network(GRN), alternative splicing (AS), polyadenylation (APA), single-cell lung repairment
 - 📫 For inquiries, you can contact me at human.gim@gmail.com.
 
