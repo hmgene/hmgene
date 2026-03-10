@@ -4,6 +4,12 @@ I develop **AI-driven computational frameworks for genomic and transcriptomic da
 
 My broader interest lies in the **philosophy of information and computation in biology**—understanding how molecular programs are written in genetic code, how regulatory networks process that information, and how these principles parallel the way **AI systems and machines are designed, operate, and evolve through interactions between humans and autonomous agents**.
 
+### Featured Projects
+
+![Fossil-C](https://github-readme-stats.vercel.app/api/pin/?username=hmgene&repo=fossil-c)
+![RegulomeAI](https://github-readme-stats.vercel.app/api/pin/?username=hmgene&repo=regulomeAI)
+![CNV-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=hmgene&repo=cnv-pipeline)
+
 **Focus Areas**
 - AI-driven sequence modeling
 - Gene regulatory networks (GRN)
