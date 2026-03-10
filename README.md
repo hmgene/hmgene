@@ -4,12 +4,6 @@ I develop **AI-driven computational frameworks for genomic and transcriptomic da
 
 My broader interest lies in the **philosophy of information and computation in biology**—understanding how molecular programs are written in genetic code, how regulatory networks process that information, and how these principles parallel the way **AI systems and machines are designed, operate, and evolve through interactions between humans and autonomous agents**.
 
-### Featured Projects
-
-![Fossil-C](https://github-readme-stats.vercel.app/api/pin/?username=hmgene&repo=fossil-c)
-![RegulomeAI](https://github-readme-stats.vercel.app/api/pin/?username=hmgene&repo=regulomeAI)
-![CNV-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=hmgene&repo=cnv-pipeline)
-
 **Focus Areas**
 - AI-driven sequence modeling
 - Gene regulatory networks (GRN)
@@ -21,3 +15,25 @@ My broader interest lies in the **philosophy of information and computation in b
 
 📫 **Contact:** human.gim@gmail.com  
 🌐 **Homepage:** https://humangene.github.io
+
+### Featured Projects
+# 🏗️ hmgene Projects Dashboard
+
+## 🔹 Featured Projects
+
+| Project | Description | Language | Stars |
+|---------|-------------|---------|-------|
+| [Fossil-C](https://github.com/hmgene/fossil-c) | CNV & peak calling pipeline | Python | ⭐ 23 |
+| [RegulomeAI](https://github.com/hmgene/regulomeAI) | AI-driven regulome analysis | R | ⭐ 15 |
+| [CNV-Pipeline](https://github.com/hmgene/cnv-pipeline) | Coverage & CNV simulation | Python | ⭐ 42 |
+
+---
+
+## 🧰 Languages Used
+![Top Languages](https://github-readme-stats-anurag.vercel.app/api/top-langs/?username=hmgene&layout=compact&hide_border=true)
+
+---
+
+## 🏆 GitHub Stats
+![GitHub Stats](https://github-readme-stats-anurag.vercel.app/api?username=hmgene&show_icons=true&hide_border=true)
+
