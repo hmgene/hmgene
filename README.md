@@ -14,7 +14,7 @@ My broader interest lies in the **philosophy of information and computation in b
 - Molecular Mechanisms of Neural Development and Disease
 
 📫 **Contact:** human.gim@gmail.com  
-🌐 **Homepage:** https://humangene.github.io
+🌐 **Homepage:** https://hmgene.github.io
 
 ### Featured Projects
 # 🏗️ hmgene Projects Dashboard
