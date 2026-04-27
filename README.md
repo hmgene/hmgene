@@ -23,9 +23,7 @@ My broader interest lies in the **philosophy of information and computation in b
 
 | Project | Description | Language | Stars |
 |---------|-------------|---------|-------|
-| [Fossil-C](https://github.com/hmgene/fossil-c) | CNV & peak calling pipeline | Python | ⭐ 23 |
-| [RegulomeAI](https://github.com/hmgene/regulomeAI) | AI-driven regulome analysis | R | ⭐ 15 |
-| [CNV-Pipeline](https://github.com/hmgene/cnv-pipeline) | Coverage & CNV simulation | Python | ⭐ 42 |
+| [Fossil-C](https://github.com/hmgene/fossil-c) | 100Myr Dinosaur DNA Project | Multi | ⭐ 23 |
 
 ---
 
